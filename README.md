@@ -1,4 +1,4 @@
-# Neural Network From Scratch
+# Deep Learning From Scratch
 
 Implementation of a fully connected feed-forward neural network from scratch in C without the use of external libraries or frameworks. 
 
